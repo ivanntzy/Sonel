@@ -1,0 +1,13 @@
+{
+  "name": "nama-proyek",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/baileys": "npm:@whiskeysockets/baileys",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "express": "latest",
+    "pino": "^8.14.1",
+    "qrcode": "latest",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
